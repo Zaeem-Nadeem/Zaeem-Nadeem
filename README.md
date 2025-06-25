@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zaeem Nadeem
+<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zaeem Nadeem<h1/>
 # 💫 About Me:
 <br>- 🔭 I’m currently working at ForthLogic as a Software Engineer Intern  <br>- 💻 I have hands-on experience with the MERN Stack (MongoDB, Express.js, React.js, Node.js)  <br>- 👯 I’m looking to collaborate on real-world full-stack projects and open-source contributions  <br>- 🌱 I’m currently exploring DevOps, CI/CD, and cloud deployment (like Vercel, Netlify, and Render)  <br>- 🤔 Ask me about React, Redux Toolkit, MongoDB, or building responsive UIs with Tailwind CSS  <br>- 📫 Reach me at: [LinkedIn - Zaeem Nadeem](https://www.linkedin.com/in/zaeem-nadeem)  <br>- ⚡ Fun fact: I love turning creative UI ideas into functional and dynamic web apps!  
 
